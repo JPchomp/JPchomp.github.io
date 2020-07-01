@@ -19,7 +19,7 @@ linkedin_username: jpbertucci
 # about_title: About Me (Use this to override about section title)
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a MSc Candidate in Sustainable and Resilient Infrastructure Systems program in the Department of Civil and Environmental Engineering at the University of Illinois at Urbana-Champaign. My research interests include <mark>infrastructure engineering</mark>, <mark>statistical learning</mark>, <mark>optimization theory</mark>, and <mark>decision theory</mark>. Primarily, I am interested in developing network infrastructure models that help optimize infrastructure investments. This combines the study of statistics, optimization, risk analysis and physical modelling. Currently I am a member of the [Multi Hazard Approach to Engineering Group](http://mae.cee.illinois.edu/).
+  I am a MSc Candidate in Sustainable and Resilient Infrastructure Systems program in the Department of Civil and Environmental Engineering at the University of Illinois at Urbana-Champaign. My research interests include <mark>infrastructure engineering</mark>, <mark>statistical learning</mark>, <mark>optimization theory</mark>, <mark>decision theory</mark> and <mark>graphical models</mark>. Primarily, I am interested in developing network infrastructure models that help optimize infrastructure investments. This combines the study of statistics, optimization, risk analysis and physical modelling. Currently I am a member of the [Multi Hazard Approach to Engineering Group](http://mae.cee.illinois.edu/).
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
