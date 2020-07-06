@@ -1,0 +1,30 @@
+<div class="container profexperience-container">
+  <h3>{{ site.profexperience_title | default: "profexperience" }}</h3>
+  {% for profexperience in site.data.profexperience %}
+    <div class="row clearfix profexperience">
+      <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
+        <h4 class="name">
+          {%- if profexperience.link -%}
+            {% include a.html href=profexperience.link %}
+          {%- endif -%}
+          {{ profexperience.company }}
+          {%- if profexperience.link -%}
+            </a>
+          {%- endif -%}
+          </h4>
+        <p><b>{{ profexperience.job_title }}</b></p>
+        <p>{{ profexperience.dates }}</p>
+        {% for job in profexperience.jobs %}
+          <p><b>{{ job.title }}</b></p>
+          <p>{{ job.dates }}</p>
+        {% endfor %}
+      </div>
+      <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
+        {%- if profexperience.quote -%}
+          <p class="quote">{{ profexperience.quote }}</p>
+        {%- endif -%}
+        {{ profexperience.description | strip | markdownify }}
+      </div>
+    </div>
+  {% endfor %}
+</div>
