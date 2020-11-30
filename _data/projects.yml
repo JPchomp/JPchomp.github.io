@@ -2,7 +2,7 @@
 
 - name: Transportation network reliability analysis
   #link: github.com/JPchomp
-  github: mnabian/DNN_Reliability_Repository
+  github: JPchomp/resilience
   description: | # this will include new lines to allow paragraphs
     In this project, I sought to improve the reliability analysis of transportation networks following extreme flood events. More info [here](https://www.dropbox.com/).
 
