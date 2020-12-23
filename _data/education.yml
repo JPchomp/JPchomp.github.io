@@ -5,18 +5,18 @@
   #quote: >
   description: |
     Concentration: Sustainable and Resilient Infrastructure Systems
-    <br />Minor 1: Computational Science and Engineering
-    <br />Minor 2: Statistics
+    <br />Minor 1: Probabilistic Analysis and Design
+    <br />Minor 2: Computational Engineering
     <br />GPA: 3.91
-    <br />Selected courses: Applied Machine Learning, Decision and Risk Analyisis, Uncertainty Quantification, Computational Statistics, Logistic Systems Analysis, Pavement Evaluation and Rehabilitation
+    <br />Selected courses: Applied Machine Learning, Decision and Risk Analyisis, Uncertainty Quantification, Public Transit Systems, Logistic Systems Analysis
 
 - name: University of Buenos Aires
   dates: 2010 - 2016
-  qualification: Professional Engineering Degree in Civil Engineering
+  qualification: Professional Degree (B.Sc. + M.Eng.) in Civil Engineering
   #quote: >
   description: |
     Concentration: Water Resources Engineering
     <br />Minor 1: Structural Engineering
     <br />Minor 2: Water Resources Engineering
-    <br />GPA: 3.80
-    <br />Selected courses: Finite Element Methods, Dam Engineering, Pavement Structural Design, Water Resources Planning
+    <br />GPA: 7.2/10
+    <br />Selected courses: Strucutral Analysis, Finite Element Methods, Dam Engineering, Pavement Design, Water Resources Planning
