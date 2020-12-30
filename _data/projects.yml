@@ -4,6 +4,10 @@
   #link: github.com/JPchomp
   github: JPchomp/resilience
   description: | # this will include new lines to allow paragraphs
-    In this project, I sought to improve the reliability analysis of transportation networks following extreme flood events. More info [here](https://www.dropbox.com/).
+    In this project, I sought to improve the reliability analysis of transportation networks following extreme flood events. More info [here](https://github.com/JPchomp/resilience).
 
-
+- name: Provision of water and sanitation for the city of San Antonio de Areco
+  #link: github.com/JPchomp
+  github: JPchomp/resilience
+  description: | # this will include new lines to allow paragraphs
+    This was the capstone project for the professional engineering degree at the University of Buenos Aires, including the detail caluclation and drawings for the provision of potable water, sanitation and storm sewers for the city of San Antonio de Areco. More info [here](https://github.com/JPchomp/areco).

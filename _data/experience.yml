@@ -1,18 +1,14 @@
-- company: Journals
-  description: |
-    - <mark>Bertucci, J.P.</mark>, and Gardioni, P., [Practical reliability metrics for infrastructure connectivity](https://onlinelibrary.wiley.com/), Computer-Aided Civil and Infrastructure Engineering, 33 (6), 443-458 (2018).
-
 - company: Thesis
   description: |
-    - Bertucci, J.P., [On pratcical metrics for network infrastructure reliability analysis](illinoisite), M.Sc. thesis, University of Illinois at Urbana-Champaign, 2015.
+    - Bertucci, J.P., [On practical metrics for network infrastructure reliability analysis](http://hdl.handle.net/2142/108606), M.Sc. thesis, University of Illinois at Urbana-Champaign, 2020.
 
 - company: Presentations
   description: |
-    - <mark>Bertucci, J.P.</mark>, [Reliability metrics](site), Sustainability Conference, UIUC, IL (2020).
-    - <mark>Bertucci, J.P.</mark>, [Pavement Sustainability Analysis](site), Sustainability Conference, UIUC, IL (2018).
+    - <mark>Bertucci, J.P.</mark>, [Reliability metrics](https://github.com/JPchomp), Multi-Hazard Approach to Engineering Group, UIUC, IL (2020).
+    - <mark>Bertucci, J.P.</mark>, [Pavement Sustainability Analysis](https://github.com/JPchomp), Sustainability Conference, UIUC, IL (2018).
 
 - company: Teaching
   description: |
     <br /><br />Teaching Assistant:
     - Mechanics of Composite Materials, University of Buenos Aires (2013).
-    - Probability and Statistics, Private tutoring (2013).
+    - Probability and Statistics, Private tutoring (2014).
