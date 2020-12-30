@@ -13,13 +13,13 @@ website: JPchomp.github.io
 github_username:  JPchomp
 instagram_username: hotasinchicago
 linkedin_username: jpbertucci
-
+twitter_username: @JPbertucci
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a MSc. in Sustainable and Resilient Infrastructure Systems program in the Department of Civil and Environmental Engineering at the University of Illinois at Urbana-Champaign. My research interests include <mark>infrastructure engineering</mark>, <mark>statistical learning</mark>, <mark>optimization theory</mark>, <mark>decision theory</mark> and <mark>graphical models</mark>. Primarily, I am interested in developing network infrastructure models that help optimize infrastructure investments. This combines the study of statistics, optimization, risk analysis and physical modelling. Currently I am a member of the [Multi Hazard Approach to Engineering Group](http://mae.cee.illinois.edu/) and transportation consultant at the [Inter American Development Bank](http://iadb.org) 
+  I hold a MSc. in Sustainable and Resilient Infrastructure Systems program in the Department of Civil and Environmental Engineering at the University of Illinois at Urbana-Champaign. My research interests include <mark>infrastructure engineering</mark>, <mark>statistical learning</mark>, <mark>optimization theory</mark>, <mark>decision theory</mark> and <mark>graphical models</mark>. Primarily, I am interested in developing network infrastructure models that help optimize infrastructure investments. This combines the study of statistics, optimization, risk analysis and physical modelling. I am a member of the [Multi Hazard Approach to Engineering Group](http://mae.cee.illinois.edu/) and transportation consultant at the [Inter American Development Bank](http://iadb.org) 
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -37,7 +37,7 @@ more_content: |
   - Argentinian Presidential Fellowship in Science and Technology
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
