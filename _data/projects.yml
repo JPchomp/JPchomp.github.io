@@ -11,3 +11,9 @@
   github: JPchomp/areco
   description: | # this will include new lines to allow paragraphs
     This was the capstone project for the professional engineering degree at the University of Buenos Aires, including the detail caluclation and drawings for the provision of potable water, sanitation and storm sewers for the city of San Antonio de Areco. More info [here](https://github.com/JPchomp/areco).
+
+- name: Road roughness measurment with mobile devices
+  #link: github.com/JPchomp
+  github: JPchomp/roughness
+  description: | # this will include new lines to allow paragraphs
+    A final project for Pavement Mantainence and Rehabilitation, using the World Bank's opensource software [RoadLabPro](https://github.com/WorldBank-Transport/RoadLab-Pro). The idea is to leverage distributed measurments of roughness with cellphone accelerometer data for small municipal mantainence scheduling. More info [here](https://github.com/JPchomp/roughness).
