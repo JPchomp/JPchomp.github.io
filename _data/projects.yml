@@ -12,6 +12,12 @@
   description: | # this will include new lines to allow paragraphs
     This was the capstone project for the professional engineering degree at the University of Buenos Aires, including the detail caluclation and drawings for the provision of potable water, sanitation and storm sewers for the city of San Antonio de Areco. More info [here](https://github.com/JPchomp/areco).
 
+- name: Latin American and Caribbean Household Travel Surveys Analysis
+  #link: github.com/JPchomp
+  github: JPchomp/LAC-Household-Travel-Surveys-Report
+  description: | # this will include new lines to allow paragraphs
+    Main results from the consolidated household travel surveys of Bogota, Montevideo, Sao Paulo, Mexico City, Santiago and Buenos Aires. Within the analyses there is a general overview of the variables considered and information on the surveys geographic coverage. Sample equity analyses and main flows by mode are produced and normalized by city volumes. More info [here](https://jpchomp.github.io/LAC-Household-Travel-Surveys-Report/).
+
 - name: Road roughness measurment with mobile devices
   #link: github.com/JPchomp
   github: JPchomp/roughness
