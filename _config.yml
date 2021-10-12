@@ -48,3 +48,6 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+# Google Analytics
+google_analytics: UA-210023023-1
