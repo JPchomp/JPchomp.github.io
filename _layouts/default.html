@@ -10,15 +10,17 @@
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
 
-      {%- include about.html -%}      
+      {%- include about.html -%}   
+      
+      {%- if site.data.profexperience.size > 0 -%}
+        {%- include profexperience.html -%}
+      {%- endif -%}      
       
       {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}
       {%- endif -%}
       
-      {%- if site.data.profexperience.size > 0 -%}
-        {%- include profexperience.html -%}
-      {%- endif -%}
+
       
       {%- if site.data.experience.size > 0 -%}
         {%- include experience.html -%}
