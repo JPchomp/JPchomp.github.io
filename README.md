@@ -1,2 +1,2 @@
 # JPchomp.github.io
-personal webpage files
+[personal webpage](JPchomp.github.io)
