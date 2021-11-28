@@ -1,16 +1,16 @@
 # Project template
 
-- name: Transportation network reliability analysis
+- name: Practical network reliability analysis
   #link: github.com/JPchomp
   github: JPchomp/resilience
   description: | # this will include new lines to allow paragraphs
-    Although most reliability analysis for networks uses concepts from graph theory to assess reliability, these metrics fall short when informing investment decisions on practical quantities. Alternatively, flow metrics are used but require assumptions on the flow mechanics and become difficult to analyze probabilistically in reasonable computational time. This work aims to condense all these aspects relevant to network infrastructure resilience in a single approach. More info [here](https://github.com/JPchomp/resilience).
+    Although most reliability analysis for networks uses concepts from graph theory to assess reliability, these metrics fall short when informing investment decisions on practical quantities. Alternatively, flow metrics are used but require assumptions on the flow mechanics and become difficult to analyze probabilistically in reasonable computational time. This work aims to condense all these aspects relevant to practical network infrastructure resilience in a single approach. More info [here](https://github.com/JPchomp/resilience).
 
 - name: Provision of water and sanitation for the city of San Antonio de Areco
   #link: github.com/JPchomp
   github: JPchomp/areco
   description: | # this will include new lines to allow paragraphs
-    This was the capstone project for the professional engineering degree at the University of Buenos Aires, including the detail calculations and drawings for the provision of potable water, sanitation and storm sewers for the city of San Antonio de Areco. More info [here](https://github.com/JPchomp/areco).
+    This was the capstone project for the professional engineering degree at the University of Buenos Aires. Includes the detail calculations and drawings for the provision of potable water, sanitation and storm sewers for the city of San Antonio de Areco. More info [here](https://github.com/JPchomp/areco).
 
 - name: Latin American and Caribbean Household Travel Surveys Analysis
   #link: github.com/JPchomp
@@ -22,4 +22,4 @@
   #link: github.com/JPchomp
   github: JPchomp/roughness
   description: | # this will include new lines to allow paragraphs
-    A final project for Pavement Mantainence and Rehabilitation, using the World Bank's opensource software [RoadLabPro](https://github.com/WorldBank-Transport/RoadLab-Pro). The idea is to leverage distributed measurments of roughness with cellphone accelerometer data for small municipal mantainence scheduling. More info [here](https://github.com/JPchomp/roughness).
+    Final project for Pavement Mantainence and Rehabilitation. Using the World Bank's opensource software [RoadLabPro](https://github.com/WorldBank-Transport/RoadLab-Pro) we sought to leverage distributed measurments of roughness with cellphone accelerometer data using machine learning techniques. This could be used for structural health monitoring and predictive mantainance by municipal agencies. More info [here](https://github.com/JPchomp/roughness).
