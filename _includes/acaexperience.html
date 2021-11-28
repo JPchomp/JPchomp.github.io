@@ -1,0 +1,30 @@
+<div class="container acaexperience-container">
+  <h3>{{ site.acaexperience_title | default: "Professional Experience" }}</h3>
+  {% for acaexperience in site.data.acaexperience %}
+    <div class="row clearfix acaexperience">
+      <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
+        <h4 class="name">
+          {%- if acaexperience.link -%}
+            {% include a.html href=acaexperience.link %}
+          {%- endif -%}
+          {{ acaexperience.company }}
+          {%- if acafexperience.link -%}
+            </a>
+          {%- endif -%}
+          </h4>
+        <p><b>{{ acaexperience.job_title }}</b></p>
+        <p>{{ acaexperience.dates }}</p>
+        {% for job in acaexperience.jobs %}
+          <p><b>{{ aca.title }}</b></p>
+          <p>{{ aca.dates }}</p>
+        {% endfor %}
+      </div>
+      <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
+        {%- if acaexperience.quote -%}
+          <p class="quote">{{ acaexperience.quote }}</p>
+        {%- endif -%}
+        {{ acaexperience.description | strip | markdownify }}
+      </div>
+    </div>
+  {% endfor %}
+</div>
