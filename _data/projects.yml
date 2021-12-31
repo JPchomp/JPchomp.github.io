@@ -6,7 +6,7 @@
   description: | # this will include new lines to allow paragraphs
     Although most reliability analysis for networks uses concepts from graph theory to assess reliability, these metrics fall short when informing investment decisions on practical quantities. Alternatively, flow metrics are used but require assumptions on the flow mechanics and become difficult to analyze probabilistically in reasonable computational time. This work aims to condense all these aspects relevant to practical network infrastructure resilience in a single approach. More info [here](https://github.com/JPchomp/resilience).
 
-- name: Water networks fo San Antonio de Areco
+- name: Water networks for San Antonio de Areco
   #link: github.com/JPchomp
   github: JPchomp/areco
   description: | # this will include new lines to allow paragraphs
