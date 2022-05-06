@@ -10,7 +10,7 @@
   #link: github.com/JPchomp
   github: JPchomp/areco
   description: | # this will include new lines to allow paragraphs
-    This was the capstone project for the professional engineering degree at the University of Buenos Aires. Includes the detail calculations and drawings for the provision of potable water, sanitation and storm sewers for the city of San Antonio de Areco. More info [here](https://github.com/JPchomp/areco).
+    Capstone project for my professional engineering degree at the University of Buenos Aires. Includes the detail calculations and drawings for the provision of drinkable water, sanitation and storm sewers for the city of San Antonio de Areco. Started with site visits and meetings with local authorities and ended with full calculations with EPA and SWMM, and design drawings with CIVIL3D and WaterCAD. More info [here](https://github.com/JPchomp/areco).
 
 - name: Latin American and Caribbean Household Travel Surveys
   #link: github.com/JPchomp
